@@ -26,7 +26,6 @@ import logging
 import types
 import enum
 import textwrap
-from typing import Union
 
 import pytest
 
